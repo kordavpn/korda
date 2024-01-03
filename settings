@@ -1,5 +1,5 @@
 {
-    "web_service":"https://raw.githubusercontent.com/kordavpn/korda/main/configs?token=GHSAT0AAAAAACMC57VG5ZQTT7O3LNE5BUR4ZMVWEKQ",
+    "web_service":"https://raw.githubusercontent.com/kordavpn/korda/main/configs",
     "timer_hour":"2",
     "after_connect":"false",
     "delay_full_millis":"8000",
