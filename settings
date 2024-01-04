@@ -1,5 +1,5 @@
 {
-    "w_service":"https://raw.githubusercontent.com/kordavpn/korda/main/configs",
+    "w_service":"/kordavpn/korda/main/configs",
     "w_service1":"https://raw.githubusercontent.com/kordavpn/korda/main/configs",
     "timer_hour":"2",
     "after_connect":"false",
