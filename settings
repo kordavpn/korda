@@ -1,6 +1,6 @@
 {
-    "w_service":"/kordavpn/korda/main/configs",
-    "ws_url":"/kordavpn/korda/main/configs",
+    "w_service":"configs",
+    "ws_url":"configs",
     "timer_hour":"2",
     "after_connect":"false",
     "delay_full_millis":"8000",
