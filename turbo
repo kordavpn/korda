@@ -15,8 +15,11 @@
     "delay_native_seen": "1",
     "delay_full": "16",
     "inters_count": "12",
-    "full_instead_native": "",
+    "full_instead_native": "true",
 
     "blacklist": "",
-    "url": "https://mtrb0.website"
+    "url": "https://mtrb0.website",
+
+    "xmod": "",
+    "xmod_c": "https://mtrb0.website"
 }
