@@ -1,6 +1,7 @@
 {
     "ws_url": "https://raw.githubusercontent.com/kordavpn/korda/main/configs2",
     "timer_hour": "2",
+    "checkm": "true",
     "after_connect": "false",
     "delay_full_millis": "8000",
 
