@@ -20,6 +20,6 @@
     "blacklist": "",
     "url": "https://mtrb0.website",
 
-    "xmod": "",
-    "xmod_c": "100"
+    "xmod": "false",
+    "xmod_c": "1000"
 }
