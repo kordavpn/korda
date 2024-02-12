@@ -4,6 +4,7 @@
     "checkm": "true",
     "after_connect": "false",
     "delay_full_millis": "8000",
+    "reward_type": "video",
 
     "appo_id": "",
 
