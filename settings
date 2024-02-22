@@ -1,22 +1,23 @@
 {
-    "ws_url": "https://raw.githubusercontent.com/kordavpn/korda/main/configs2",
+    "ws_url": "https://raw.githubusercontent.com/...",
     "timer_hour": "2",
     "checkm": "false",
+    "mmessage": "متن پیام",
     "after_connect": "true",
-    "delay_full_millis": "8000",
+    "delay_full_millis": "10000",
     "reward_type": "video",
 
     "appo_id": "",
 
-    "app_id": "ca-app-pub-7403345120264108~1710161122",
+    "app_id": "",
     "uid_appopen": "",
     "uid_servers": "",
-    "uid_connect": "ca-app-pub-7403345120264108/4402583701",
+    "uid_connect": "",
     "uid_refresh": "",
     "uid_native": "",
 
-    "ad_title": "",
-    "ad_body": "The most feature-rich Telegram",
-    "ad_image": "https://play-lh.googleusercontent.com/Nz1sf62DbO2mYvf8P6GiPD1Bo2PGjAlFr7ODFD27pNiLbrihpJvyONPdl0jL16MXUzU=w480-h960-rw",
-    "ad_url": "https://play.google.com/store/apps/details?id=ellipi.messenger"
+    "ad_title": "عنوان تبلیغ",
+    "ad_body": "متن تبلیغ",
+    "ad_image": "https://play-lh.googleusercontent.com/...",
+    "ad_url": "https://play.google.com/store/apps/details?...."
 }
