@@ -1,10 +1,10 @@
 {
-    "ws_url": "https://raw.githubusercontent.com/...",
+    "ws_url": "https://raw.githubusercontent.com/kordavpn/korda/main/configs2",
     "timer_hour": "2",
-    "checkm": "false",
+    "checkm": "true",
     "mmessage": "متن پیام",
     "after_connect": "true",
-    "delay_full_millis": "10000",
+    "delay_full_millis": "20000",
     "reward_type": "video",
 
     "app_id": "اپلیکیشن آیدی ادموب",
