@@ -1,5 +1,5 @@
 {
-    "ws_url": "https://raw.githubusercontent.com/kordavpn/korda/main/co",
+    "ws_url": "https://raw.githubusercontent.com/kordavpn/korda/main/configs",
     "timer_hour": "2",
     "checkm": "true",
     "mmessage": "متن پیام",
