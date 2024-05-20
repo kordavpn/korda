@@ -1,6 +1,6 @@
 {
     "remote_link": "https://korda.app/api/applications/y0WsRgzujB",
-    "ws_url": "https://raw.githubusercontent.com/kordavpn/korda/main/configs",
+    "ws_url": "https://raw.githubusercontent.com/kordavpn/korda/main/vconfigs",
     "timer_hour": "2",
     "checkm": "true",
     "mmessage": "",
