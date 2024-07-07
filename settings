@@ -5,7 +5,7 @@
     "checkm": "true",
     "mmessage": "",
     "after_connect": "true",
-    "delay_full": "20",
+    "delay_full": "20000",
     "delay_full_millis": "20000",
     "reward_type": "",
 
