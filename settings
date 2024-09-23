@@ -5,8 +5,8 @@
     "checkm": "false",
     "mmessage": "",
     "after_connect": "false",
-    "delay_full": "100",
-    "delay_full_millis": "100",
+    "delay_full": "1000",
+    "delay_full_millis": "1000",
     "reward_type": "",
 
     "app_id": "",
