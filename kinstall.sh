@@ -89,14 +89,11 @@ config_after_install() {
 
     if [[ ${#existing_webBasePath} -lt 4 ]]; then
         if [[ "$existing_hasDefaultCredential" == "true" ]]; then
-            local config_webBasePath=$(gen_random_string 15)
-            local config_username=$(gen_random_string 10)
-            local config_password=$(gen_random_string 10)
 
-			local config_port="1400"
-			local config_username="k"
-			local config_password="k"
-
+            local config_username="k"
+            local config_password="k"
+	    local config_port="1400"
+     
             /usr/local/x-ui/x-ui setting -username "${config_username}" -password "${config_password}" -port "${config_port}" -webBasePath "${config_webBasePath}"
             echo -e "This is a fresh installation, generating random login info for security concerns:"
             echo -e "###############################################"
