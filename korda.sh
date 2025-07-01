@@ -89,6 +89,7 @@ config_after_install() {
 
     if [[ ${#existing_webBasePath} -lt 4 ]]; then
         if [[ "$existing_hasDefaultCredential" == "true" ]]; then
+            local config_webBasePath=""        
             local config_port="1400"
             local config_username="k"
             local config_password="k"
